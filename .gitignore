@@ -27,7 +27,9 @@ ehthumbs.db
 *.bbl
 *.blg
 *.toc
-*.tex 
+*.tex
+*.bib
+*.bst
 
 # spacemacs #
 #############
