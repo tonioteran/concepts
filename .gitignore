@@ -66,4 +66,6 @@ build/
 ###########
 *.blend
 
-
+# PowerPoint #
+##############
+*.pptx
