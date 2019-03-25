@@ -7,4 +7,4 @@ documents helps me build a better intuition of the problems at hand.
 # Contents:
 
 - Stereo disparity
-- ...
+- iSAM: incremental Smoothing and Mapping
